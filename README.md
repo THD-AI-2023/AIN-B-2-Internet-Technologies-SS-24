@@ -1,2 +1,2 @@
-# Template Repository (SS23)
-Template repository for the Materials, notes, and resources related to the course for the Bachelor of Artificial Intelligence program in the Summer Semester of 2023.
+# Internet Technologies (SS24)
+Materials, notes, and resources related to the Internet Technologies course for the Bachelor of Artificial Intelligence program in the Summer Semester of 2024.
